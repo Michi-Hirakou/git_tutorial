@@ -3,3 +3,6 @@ git status
 git diff
 git test
 git test2
+
+git commit
+git ammend
