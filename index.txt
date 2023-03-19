@@ -7,5 +7,5 @@ git test2
 git commit
 git ammend
 git merge
-
 git conflict
+
