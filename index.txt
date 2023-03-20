@@ -11,3 +11,4 @@ git conflict
 
 git pullrequest
 github flow
+git stop commit
